@@ -1,0 +1,10 @@
+body{
+  text-align: center;
+}
+
+#target{
+  margin: 100px auto;
+  width: 60%;
+  height: 350px;
+  background-color: blue;
+}
